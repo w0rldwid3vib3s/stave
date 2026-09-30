@@ -12,10 +12,19 @@ The built-in demo is named **Night window** (96 BPM, 4/4, 8 bars, C major, loop 
 
 ## What is in this repo
 
-This README is the public welcome mat. It does not include the app source. The live page serves a built browser bundle only. Build did not return `bot.txt` or `handoff.html` (both 404 on 29 Sep 2026 PT), and the page has no source download.
+Source returned by Build on 30 Sep 2026 PT, plus this README. It does not include node_modules or a production build. The live host still sends `x-robots-tag: noindex`, and Build said that header cannot be turned off from the app.
 
 ## What this is not
 
-Not a DAW with accounts, cloud sync, or a sample store. Not a game. Not Hollowpath, Dropforge, or Skill Creator. One product, one repo. Price is CAD $9 on Gumroad. The play host was still sending noindex on 29 Sep 2026 PT, so this page is the public record, not a traffic push.
+Not a DAW with accounts, cloud sync, or a sample store. Not a game. Not Hollowpath, Dropforge, or Skill Creator. One product, one repo. Price is CAD $9 on Gumroad.
 
 Catalog: [wwv-site](https://github.com/w0rldwid3vib3s/wwv-site)
+
+## Run it locally
+
+```
+npm install
+npm run dev
+```
+
+The dev server listens on port 8080. `npm run build` makes a production build. No account is required. The piece stays in this browser.
