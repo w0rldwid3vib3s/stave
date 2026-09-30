@@ -4,6 +4,8 @@ A browser music arranger from WorldWideVibes. Five lanes — Melody, Piano, Bass
 
 **Play it:** https://solar-zenith-hazel-ivory.grok.me
 
+**Buy it (CAD $9):** https://caetano72.gumroad.com/l/stave
+
 The page title is Stave. The page description is: “Compose with a keyboard, drums, sheet music, and tuned vocals.”
 
 The built-in demo is named **Night window** (96 BPM, 4/4, 8 bars, C major, loop on). The transport reads **Bar 1** at the start. Until you save, the header says “Demo piece.” Saves stay on this device (“Saved on this device”). There is no account.
@@ -14,6 +16,6 @@ This README is the public welcome mat. It does not include the app source. The l
 
 ## What this is not
 
-Not a DAW with accounts, cloud sync, or a sample store. Not a game. Not Hollowpath, Dropforge, or Skill Creator. One product, one repo. No price is set.
+Not a DAW with accounts, cloud sync, or a sample store. Not a game. Not Hollowpath, Dropforge, or Skill Creator. One product, one repo. Price is CAD $9 on Gumroad. The play host was still sending noindex on 29 Sep 2026 PT, so this page is the public record, not a traffic push.
 
 Catalog: [wwv-site](https://github.com/w0rldwid3vib3s/wwv-site)
